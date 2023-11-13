@@ -13,9 +13,5 @@ public class DuGuJiuJian {
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
-        System.out.println("独孤九剑");
     }
 }
