@@ -15,6 +15,6 @@ public class BiXieJianFa {
         System.out.println("辟邪剑法");
         System.out.println("辟邪剑法");
 
-        System.out.println("AAAAA");
+        System.out.println("AAAAAAA");
     }
 }
