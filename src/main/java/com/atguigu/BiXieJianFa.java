@@ -14,11 +14,5 @@ public class BiXieJianFa {
         System.out.println("辟邪剑法");
         System.out.println("辟邪剑法");
         System.out.println("辟邪剑法");
-        System.out.println("辟邪剑法");
-        System.out.println("辟邪剑法");
-        System.out.println("辟邪剑法");
-        System.out.println("辟邪剑法");
-        System.out.println("辟邪剑法");
-        System.out.println("辟邪剑法");
     }
 }
